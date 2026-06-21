@@ -1,188 +1,185 @@
-# Sri Lanka Food Price Crisis Analysis (2004–2025)
+# 🚨 Sri Lanka Food Price Crisis Analysis (2004–2025)
 
-A comprehensive **data analytics project** examining the impact of Sri Lanka’s 2021–2022 economic crisis on food prices, inflation dynamics, and regional price disparities.
+> A full-stack **data analytics case study** uncovering how Sri Lanka’s 2021–2022 economic crisis reshaped food inflation, market volatility, and regional price inequality.
 
-This project applies an end-to-end analytics workflow using **Excel, SQL, Python, and Tableau** to transform raw market data into actionable economic insights.
+📊 **33,000+ records | 20+ years | 44 markets | End-to-end analytics pipeline**
 
 ---
 
-## Project Overview
+## 🌍 Project Summary
 
-Sri Lanka’s economic crisis triggered a significant disruption in food price stability, resulting in accelerated inflation and uneven regional price impacts.
+Sri Lanka experienced one of its most severe economic disruptions in recent history, resulting in rapid currency depreciation, supply chain breakdowns, and extreme food inflation.
 
-This project analyzes 20+ years of food price data to quantify:
+This project transforms raw food price data into a structured analytical system to answer:
 
-- The magnitude and structure of food inflation during the crisis period  
-- Commodities most affected by price escalation  
+- How did food inflation behave before vs during the crisis?
+- Which essential commodities were most affected?
+- Which regions experienced the highest price burden?
+- Did markets stabilize after 2022?
+- Is there evidence of recovery patterns?
+
+🎯 **Goal:** Convert raw market data into actionable economic intelligence using SQL, Python, and Tableau.
+
+---
+
+## 📸 Dashboard Preview
+
+🔥 **Interactive Tableau Crisis Impact Dashboard**
+
+A fully interactive BI dashboard visualizing:
+- Inflation trends over 20+ years  
+- Commodity-level price shocks  
 - Regional disparities in food affordability  
-- Changes in market volatility before and after 2020  
-- Early indicators of post-crisis stabilization patterns  
-
-**Objective:**  
-To develop a structured analytical framework that converts raw food price data into meaningful economic intelligence.
+- Crisis period segmentation (pre / during / post)  
+- Market volatility patterns  
 
 ---
 
-## Key Findings
+## 🧠 Key Insights
 
-### 1. Structural Inflation Acceleration (2021–2022)
-Food prices exhibited a non-linear acceleration during the crisis period, indicating systemic macroeconomic instability rather than gradual inflation.
+### 💥 Structural Inflation Shock (2021–2022)
+Food prices did not rise gradually — they **spiked non-linearly**, signaling systemic macroeconomic failure.
 
-### 2. Disproportionate Impact on Essential Commodities
-Staple foods such as rice, lentils, and vegetables experienced significantly higher inflation compared to processed food categories.
+### 📈 Essential Goods Were Hit Hardest
+Staple commodities such as **rice, lentils, and vegetables** showed the highest inflation pressure compared to processed goods.
 
-### 3. Regional Price Inequality
-Certain regions consistently recorded higher food price inflation, highlighting uneven economic resilience across markets.
+### 🌍 Regional Inequality Widened
+Certain regions consistently experienced significantly higher food inflation, highlighting uneven economic resilience.
 
-### 4. Increased Market Volatility Post-2020
-Price fluctuations became more frequent and unpredictable, reflecting disruptions in supply chains and market equilibrium.
-
----
-
-## Dataset Summary
-
-| Attribute | Description |
-|-----------|-------------|
-| Total Records | 33,000+ |
-| Time Period | 2004 – 2025 |
-| Markets Covered | 44 locations across Sri Lanka |
-| Commodity Scope | Essential food items and staples |
-| Data Frequency | Monthly observations |
+### ⚠️ Market Volatility Increased After 2020
+Post-2020 markets became highly unstable with frequent and unpredictable price fluctuations.
 
 ---
 
-## Methodology
+## 📊 Dataset Overview
 
-### 1. Data Engineering (Excel)
-- Data cleaning and preprocessing  
-- Handling missing and duplicate records  
-- Standardization of commodities and market names  
-- Outlier detection and validation  
-- Creation of structured data dictionary  
+| Metric | Details |
+|------|--------|
+| 📌 Total Records | 33,000+ |
+| 📅 Time Range | 2004 – 2025 |
+| 🏪 Markets Covered | 44 across Sri Lanka |
+| 🥦 Commodities | Food staples + essential goods |
+| 📈 Frequency | Monthly observations |
 
 ---
 
-### 2. SQL-Based Analysis (SQLite)
-Key analytical operations included:
+## ⚙️ End-to-End Analytics Pipeline
 
-- Year-over-Year inflation calculations  
-- Commodity-level price ranking  
-- Market-wise comparative analysis  
+### 🧹 1. Data Engineering (Excel)
+- Missing value treatment  
+- Duplicate removal  
+- Standardization of commodities & markets  
+- Outlier detection  
+- Data structuring & dictionary creation  
+
+---
+
+### 🗃️ 2. SQL Analytics Engine (SQLite)
+Advanced analytical layer:
+
+- Year-over-Year inflation calculation  
+- Commodity ranking by price increase  
+- Market-level comparisons  
 - Window functions for trend analysis  
-- Construction of a Food Price Index  
+- Food Price Index construction  
 
 ---
 
-### 3. Python Analytics Layer
-Implemented using **Pandas, NumPy, and Matplotlib**
+### 🐍 3. Python Analytics Layer
+Built using **Pandas, NumPy, Matplotlib**
 
-Key outputs:
-
-- Food Price Index modeling  
-- Volatility analysis (pre- vs post-crisis)  
-- Commodity inflation ranking  
-- Regional disparity assessment  
-- Crisis impact evaluation  
-
----
-
-### 4. Tableau Dashboard
-Developed an interactive BI dashboard to visualize:
-
-- Time-series inflation trends  
-- Geographic price distribution  
-- Commodity-level price comparisons  
-- Category-wise inflation patterns  
-- Crisis period segmentation  
+Delivered:
+- 📈 Food Price Index modeling  
+- 📉 Volatility analysis (pre vs post crisis)  
+- 📊 Commodity inflation ranking  
+- 🌍 Regional disparity analysis  
+- ⚠️ Crisis impact detection model  
 
 ---
 
-## Business Questions Addressed
+### 📊 4. Tableau Business Intelligence Dashboard
+Interactive visualization layer featuring:
 
-- Which commodities experienced the highest inflation rates?  
-- How did inflation behavior change before and during the crisis?  
-- Which regions were most economically affected?  
-- Did market volatility increase significantly post-2020?  
-- Are there observable signs of recovery after the crisis period?  
+- 🗺️ Geographic price distribution  
+- 📈 Long-term inflation trends  
+- 🥇 Commodity ranking analysis  
+- 📊 Category-level comparisons  
+- ⚠️ Crisis period highlighting (pre / during / post)  
 
 ---
 
-## Tech Stack
+## ❓ Business Questions Answered
 
-| Layer | Technology |
-|------|------------|
-| Data Processing | Microsoft Excel |
+✔ Which commodities became unaffordable fastest?  
+✔ How did inflation evolve before vs during the crisis?  
+✔ Which regions faced the highest food burden?  
+✔ Did market volatility increase significantly after 2020?  
+✔ Is there measurable evidence of post-crisis recovery?  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Tools |
+|------|------|
+| Data Cleaning | Excel |
 | Database | SQLite |
 | Data Analysis | Python (Pandas, NumPy) |
 | Visualization | Matplotlib |
-| Business Intelligence | Tableau |
+| BI Dashboard | Tableau |
 | Version Control | Git & GitHub |
 
 ---
 
-## Project Structure
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── sql/
-│ ├── schema.sql
-│ └── queries.sql
-│
-├── notebooks/
-│ └── analysis.ipynb
-│
-├── tableau/
-│ └── dashboard.twbx
-│
-├── assets/
-│ └── dashboard.png
-│
-└── README.md
 
 ---
 
-## Skills Demonstrated
+## 📈 Skills Demonstrated
 
-### Data Analytics
+### 📊 Data Analytics
 - Time-series analysis  
-- Exploratory data analysis (EDA)  
-- Inflation and trend modeling  
+- Exploratory Data Analysis (EDA)  
+- Inflation modeling  
 
-### Data Engineering
-- Data preprocessing pipelines  
-- SQL-based transformation logic  
-- Data structuring and normalization  
+### 🧠 Data Engineering
+- Data cleaning pipelines  
+- SQL transformation logic  
+- Data structuring & normalization  
 
-### Business Intelligence
-- Dashboard design and KPI development  
+### 📉 Business Intelligence
+- Dashboard design (Tableau)  
+- KPI development  
 - Data storytelling for decision-making  
-- Interactive visualization development  
 
-### Analytical Thinking
-- Macroeconomic impact analysis  
-- Regional inequality assessment  
-- Market behavior interpretation  
-
----
-
-## Project Value
-
-This project demonstrates the ability to convert large-scale raw datasets into structured analytical systems capable of supporting economic interpretation and decision-making.
-
-It reflects applied skills relevant to:
-
-- Economic research and policy analysis  
-- Inflation monitoring systems  
-- Food security assessment  
-- Data-driven public sector insights  
+### 🔍 Analytical Thinking
+- Economic crisis impact analysis  
+- Regional inequality evaluation  
+- Market volatility interpretation  
 
 ---
 
-## Author
+## 📌 Project Impact
+
+This project demonstrates the ability to transform **raw government-level datasets into a complete business intelligence system** that supports real-world economic decision-making.
+
+It reflects applied analytical skills relevant to:
+
+- 📊 Economic research & policy analysis  
+- 🏦 Inflation monitoring systems  
+- 🌍 Food security assessment  
+- 📈 Data-driven governance insights  
+
+---
+
+## 👨‍💻 Author
 
 **Dilan Karunanayake**  
-Final-Year Undergraduate | Aspiring Data Analyst  
+🎓 Final-Year Undergraduate | Aspiring Data Analyst  
+📊 SQL | Python | Tableau | Data Engineering  
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub and connect for collaboration opportunities in Data Analytics & BI.
 
 ---
