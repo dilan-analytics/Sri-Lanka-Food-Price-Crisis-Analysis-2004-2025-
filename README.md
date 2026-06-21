@@ -1,132 +1,123 @@
-# 🚨 Sri Lanka Food Price Crisis Analysis (2004–2025)
+# Sri Lanka Food Price Crisis Analysis (2004–2025)
 
-A **data-driven economic analysis project** that investigates how Sri Lanka’s 2021–2022 financial crisis reshaped food affordability, inflation dynamics, and regional inequality across the country.
+A comprehensive **data analytics project** examining the impact of Sri Lanka’s 2021–2022 economic crisis on food prices, inflation dynamics, and regional price disparities.
 
-📊 **33,000+ records | 20+ years of data | 44 markets | End-to-end analytics pipeline**
-
----
-
-## 🌍 Project Overview
-
-Sri Lanka experienced one of its most severe economic crises in 2021–2022, triggering unprecedented inflation and supply chain instability.
-
-This project quantifies that transformation using real-world food price data to uncover:
-
-- 📈 Speed and structure of food inflation during the crisis  
-- 🥦 Commodities most affected by price surges  
-- 🌍 Regional disparities in food affordability  
-- ⚠️ Market instability after 2020  
-- 📊 Signs of post-crisis recovery patterns  
-
-🎯 **Objective:** Transform raw food price data into actionable economic intelligence using SQL, Python, and Tableau.
+This project applies an end-to-end analytics workflow using **Excel, SQL, Python, and Tableau** to transform raw market data into actionable economic insights.
 
 ---
 
-## 📸 Dashboard Preview
+## Project Overview
 
-🔥 **Interactive Crisis Impact Dashboard (Tableau)**  
-Built to visualize:
-- 20+ years of inflation trends  
-- Commodity-level price shocks  
-- Regional inequality patterns  
-- Crisis vs pre-crisis comparison  
+Sri Lanka’s economic crisis triggered a significant disruption in food price stability, resulting in accelerated inflation and uneven regional price impacts.
 
----
+This project analyzes 20+ years of food price data to quantify:
 
-## 🧠 Key Insights (Executive Summary)
+- The magnitude and structure of food inflation during the crisis period  
+- Commodities most affected by price escalation  
+- Regional disparities in food affordability  
+- Changes in market volatility before and after 2020  
+- Early indicators of post-crisis stabilization patterns  
 
-### 💥 1. Structural Price Shock (2021–2022)
-Food prices did not increase gradually—they **accelerated non-linearly**, indicating systemic economic stress.
-
-### 📈 2. Staple Commodities Were Most Affected
-Essential goods like **rice, lentils, and vegetables** experienced higher inflation than processed foods.
-
-### 🌍 3. Regional Inequality Increased
-Certain provinces experienced significantly higher food inflation, revealing uneven economic resilience.
-
-### ⚠️ 4. Market Volatility Increased After 2020
-Price fluctuations became more frequent and unpredictable, signaling supply chain instability.
+**Objective:**  
+To develop a structured analytical framework that converts raw food price data into meaningful economic intelligence.
 
 ---
 
-## 📊 Dataset Overview
+## Key Findings
 
-| Feature | Details |
-|--------|--------|
-| 📌 Total Records | 33,000+ |
-| 📅 Time Range | 2004 – 2025 |
-| 🏪 Markets Covered | 44 across Sri Lanka |
-| 🥦 Commodities | Food staples + essential goods |
-| 📈 Frequency | Monthly price tracking |
+### 1. Structural Inflation Acceleration (2021–2022)
+Food prices exhibited a non-linear acceleration during the crisis period, indicating systemic macroeconomic instability rather than gradual inflation.
 
----
+### 2. Disproportionate Impact on Essential Commodities
+Staple foods such as rice, lentils, and vegetables experienced significantly higher inflation compared to processed food categories.
 
-## 🧠 Analytical Pipeline (End-to-End)
+### 3. Regional Price Inequality
+Certain regions consistently recorded higher food price inflation, highlighting uneven economic resilience across markets.
 
-### 🧹 1. Data Engineering (Excel)
-- Missing value handling  
-- Duplicate removal  
-- Commodity & market standardization  
-- Outlier detection  
-- Data dictionary creation  
+### 4. Increased Market Volatility Post-2020
+Price fluctuations became more frequent and unpredictable, reflecting disruptions in supply chains and market equilibrium.
 
 ---
 
-### 🗃️ 2. SQL Analytics Engine (SQLite)
-Advanced analysis using SQL:
+## Dataset Summary
 
-- Inflation ranking by commodity  
-- Market-level price comparison  
-- Year-over-Year inflation trends  
-- Window functions for price indexing  
-- Food Price Index construction  
-
----
-
-### 🐍 3. Python Analytics Layer
-Built with **Pandas, NumPy, Matplotlib**
-
-Delivered:
-- 📈 Food Price Index modeling  
-- 📉 Volatility analysis (pre vs post crisis)  
-- 📊 Commodity inflation ranking  
-- 🌍 Regional disparity analysis  
-- ⚠️ Crisis impact detection model  
+| Attribute | Description |
+|-----------|-------------|
+| Total Records | 33,000+ |
+| Time Period | 2004 – 2025 |
+| Markets Covered | 44 locations across Sri Lanka |
+| Commodity Scope | Essential food items and staples |
+| Data Frequency | Monthly observations |
 
 ---
 
-### 📊 4. Tableau Intelligence Layer
-Interactive BI dashboard includes:
+## Methodology
 
-- 🗺️ Geographic price distribution  
-- 📈 Time-series inflation trends  
-- 🥇 Commodity ranking visualization  
-- 📊 Category-level comparison  
-- ⚠️ Crisis period highlighting  
-
----
-
-## ❓ Business Questions Answered
-
-✔ Which commodities became unaffordable fastest?  
-✔ How did inflation behave before vs during the crisis?  
-✔ Which regions were most affected?  
-✔ Did volatility indicate market instability?  
-✔ Is there evidence of recovery after the crisis?  
+### 1. Data Engineering (Excel)
+- Data cleaning and preprocessing  
+- Handling missing and duplicate records  
+- Standardization of commodities and market names  
+- Outlier detection and validation  
+- Creation of structured data dictionary  
 
 ---
 
-## 🛠️ Tech Stack
+### 2. SQL-Based Analysis (SQLite)
+Key analytical operations included:
 
-| Layer | Tools |
-|------|------|
-| Data Cleaning | Excel |
+- Year-over-Year inflation calculations  
+- Commodity-level price ranking  
+- Market-wise comparative analysis  
+- Window functions for trend analysis  
+- Construction of a Food Price Index  
+
+---
+
+### 3. Python Analytics Layer
+Implemented using **Pandas, NumPy, and Matplotlib**
+
+Key outputs:
+
+- Food Price Index modeling  
+- Volatility analysis (pre- vs post-crisis)  
+- Commodity inflation ranking  
+- Regional disparity assessment  
+- Crisis impact evaluation  
+
+---
+
+### 4. Tableau Dashboard
+Developed an interactive BI dashboard to visualize:
+
+- Time-series inflation trends  
+- Geographic price distribution  
+- Commodity-level price comparisons  
+- Category-wise inflation patterns  
+- Crisis period segmentation  
+
+---
+
+## Business Questions Addressed
+
+- Which commodities experienced the highest inflation rates?  
+- How did inflation behavior change before and during the crisis?  
+- Which regions were most economically affected?  
+- Did market volatility increase significantly post-2020?  
+- Are there observable signs of recovery after the crisis period?  
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|------|------------|
+| Data Processing | Microsoft Excel |
 | Database | SQLite |
-| Analysis | Python (Pandas, NumPy) |
+| Data Analysis | Python (Pandas, NumPy) |
 | Visualization | Matplotlib |
-| BI Dashboard | Tableau |
+| Business Intelligence | Tableau |
 | Version Control | Git & GitHub |
 
 ---
 
-## 📁 Project Structure
+## Project Structure
