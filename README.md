@@ -121,3 +121,68 @@ Developed an interactive BI dashboard to visualize:
 ---
 
 ## Project Structure
+│
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+├── sql/
+│ ├── schema.sql
+│ └── queries.sql
+│
+├── notebooks/
+│ └── analysis.ipynb
+│
+├── tableau/
+│ └── dashboard.twbx
+│
+├── assets/
+│ └── dashboard.png
+│
+└── README.md
+
+---
+
+## Skills Demonstrated
+
+### Data Analytics
+- Time-series analysis  
+- Exploratory data analysis (EDA)  
+- Inflation and trend modeling  
+
+### Data Engineering
+- Data preprocessing pipelines  
+- SQL-based transformation logic  
+- Data structuring and normalization  
+
+### Business Intelligence
+- Dashboard design and KPI development  
+- Data storytelling for decision-making  
+- Interactive visualization development  
+
+### Analytical Thinking
+- Macroeconomic impact analysis  
+- Regional inequality assessment  
+- Market behavior interpretation  
+
+---
+
+## Project Value
+
+This project demonstrates the ability to convert large-scale raw datasets into structured analytical systems capable of supporting economic interpretation and decision-making.
+
+It reflects applied skills relevant to:
+
+- Economic research and policy analysis  
+- Inflation monitoring systems  
+- Food security assessment  
+- Data-driven public sector insights  
+
+---
+
+## Author
+
+**Dilan Karunanayake**  
+Final-Year Undergraduate | Aspiring Data Analyst  
+
+---
