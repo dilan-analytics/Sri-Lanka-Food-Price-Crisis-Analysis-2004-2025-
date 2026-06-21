@@ -1,0 +1,263 @@
+commodity,year,avg_price,yoy_pct_change
+Bananas,2020,82.51,
+Bananas,2021,55.0,-33.34
+Bananas,2022,175.88,219.78
+Bananas,2023,189.09,7.51
+Bananas,2024,187.94,-0.61
+Bananas,2025,152.88,-18.65
+Beans,2020,172.72,
+Beans,2021,128.0,-25.89
+Beans,2022,504.99,294.53
+Beans,2023,510.74,1.14
+Beans,2024,554.25,8.52
+Beans,2025,580.02,4.65
+Beans (Mung),2023,1035.95,
+Beans (Mung),2024,1013.41,-2.18
+Beans (Mung),2025,787.88,-22.25
+Cabbage,2020,88.27,
+Cabbage,2021,58.0,-34.29
+Cabbage,2022,353.03,508.67
+Cabbage,2023,306.53,-13.17
+Cabbage,2024,361.4,17.9
+Cabbage,2025,373.59,3.37
+Carrots,2020,159.51,
+Carrots,2021,134.0,-15.99
+Carrots,2022,366.74,173.69
+Carrots,2023,432.08,17.81
+Carrots,2024,467.22,8.14
+Carrots,2025,601.89,28.82
+"Chili (Red, Dry Raw)",2020,438.08,
+"Chili (Red, Dry Raw)",2021,488.25,11.45
+"Chili (Red, Dry Raw)",2022,1767.57,262.02
+"Chili (Red, Dry Raw)",2023,1221.38,-30.9
+"Chili (Red, Dry Raw)",2024,910.36,-25.46
+"Chili (Red, Dry Raw)",2025,747.52,-17.89
+Coconut,2020,62.49,
+Coconut,2022,100.81,61.31
+Coconut,2023,73.84,-26.75
+Coconut,2024,92.3,24.99
+Coconut,2025,147.86,60.2
+"Cowpeas (Whole, Average)",2021,529.39,
+"Cowpeas (Whole, Average)",2022,838.82,58.45
+"Cowpeas (Whole, Average)",2023,1010.5,20.47
+"Cowpeas (Whole, Average)",2024,905.72,-10.37
+"Cowpeas (Whole, Average)",2025,807.94,-10.8
+Eggplants,2020,92.33,
+Eggplants,2021,96.5,4.52
+Eggplants,2022,391.08,305.27
+Eggplants,2023,358.79,-8.26
+Eggplants,2024,339.01,-5.51
+Eggplants,2025,418.28,23.38
+Eggs,2020,18.99,
+Eggs,2021,31.21,64.35
+Eggs,2022,43.69,40.01
+Eggs,2023,50.23,14.97
+Eggs,2024,46.19,-8.04
+Eggs,2025,32.07,-30.58
+"Fish (Dry, Katta)",2020,1055.25,
+"Fish (Dry, Katta)",2022,2641.41,150.31
+"Fish (Dry, Katta)",2023,2266.26,-14.2
+"Fish (Dry, Katta)",2024,2097.21,-7.46
+"Fish (Dry, Katta)",2025,2228.13,6.24
+"Fish (Dry, Sprats)",2020,578.5,
+"Fish (Dry, Sprats)",2022,1744.18,201.5
+"Fish (Dry, Sprats)",2023,1195.67,-31.45
+"Fish (Dry, Sprats)",2024,1155.49,-3.36
+"Fish (Dry, Sprats)",2025,1097.97,-4.98
+Fish (Goldstripe Sardinella),2020,245.35,
+Fish (Goldstripe Sardinella),2022,860.16,250.58
+Fish (Goldstripe Sardinella),2023,990.12,15.11
+Fish (Goldstripe Sardinella),2024,861.58,-12.98
+Fish (Goldstripe Sardinella),2025,951.66,10.45
+Fish (Jack),2020,777.98,
+Fish (Jack),2022,2105.74,170.67
+Fish (Jack),2023,1730.41,-17.82
+Fish (Jack),2024,1718.29,-0.7
+Fish (Jack),2025,1727.92,0.56
+Fish (Sail Fish),2020,876.7,
+Fish (Sail Fish),2022,2635.52,200.62
+Fish (Sail Fish),2023,2496.14,-5.29
+Fish (Sail Fish),2024,2410.63,-3.43
+Fish (Sail Fish),2025,2500.59,3.73
+Fish (Skipjack Tuna),2020,431.49,
+Fish (Skipjack Tuna),2022,1539.89,256.88
+Fish (Skipjack Tuna),2023,1283.79,-16.63
+Fish (Skipjack Tuna),2024,1172.12,-8.7
+Fish (Skipjack Tuna),2025,1313.84,12.09
+Fish (Trenched Sardinella),2020,496.93,
+Fish (Trenched Sardinella),2022,954.62,92.11
+Fish (Trenched Sardinella),2023,844.76,-11.51
+Fish (Trenched Sardinella),2024,926.01,9.62
+Fish (Trenched Sardinella),2025,1087.16,17.4
+Fish (Yellowfin Tuna),2020,684.62,
+Fish (Yellowfin Tuna),2022,2121.55,209.89
+Fish (Yellowfin Tuna),2023,2155.92,1.62
+Fish (Yellowfin Tuna),2024,2037.67,-5.48
+Fish (Yellowfin Tuna),2025,2200.88,8.01
+Fuel (Diesel),2013,121.0,
+Fuel (Diesel),2014,120.67,-0.28
+Fuel (Diesel),2015,96.0,-20.44
+Fuel (Diesel),2016,95.0,-1.04
+Fuel (Diesel),2017,97.41,2.54
+Fuel (Diesel),2018,96.67,-0.77
+Fuel (Petrol-Gasoline),2013,143.49,
+Fuel (Petrol-Gasoline),2014,161.44,12.52
+Fuel (Petrol-Gasoline),2015,119.06,-26.25
+Fuel (Petrol-Gasoline),2016,117.0,-1.73
+Fuel (Petrol-Gasoline),2017,114.53,-2.11
+Fuel (Petrol-Gasoline),2018,117.0,2.15
+Lentils,2020,139.66,
+Lentils,2021,163.32,16.94
+Lentils,2022,437.04,167.59
+Lentils,2023,316.52,-27.58
+Lentils,2024,311.5,-1.59
+Lentils,2025,284.73,-8.6
+"Meat (Chicken, Broiler)",2023,1354.72,
+"Meat (Chicken, Broiler)",2024,1195.96,-11.72
+"Meat (Chicken, Broiler)",2025,1227.02,2.6
+"Meat (Chicken, Fresh)",2021,728.44,
+"Meat (Chicken, Fresh)",2022,1126.96,54.71
+"Meat (Chicken, Fresh)",2023,1275.57,13.19
+Oil (Coconut),2021,439.55,
+Oil (Coconut),2022,549.03,24.91
+Oil (Coconut),2023,542.63,-1.17
+Onions (Imported),2020,113.35,
+Onions (Imported),2021,172.86,52.5
+Onions (Imported),2022,204.48,18.29
+Onions (Imported),2023,232.12,13.52
+Onions (Imported),2024,351.95,51.62
+Onions (Imported),2025,172.26,-51.06
+Onions (Red),2021,336.34,
+Onions (Red),2022,460.88,37.03
+Onions (Red),2023,383.88,-16.71
+Onions (Red),2024,350.0,-8.82
+Onions (Red),2025,342.32,-2.19
+"Onions (Red, Imported)",2020,235.07,
+"Onions (Red, Imported)",2021,80.83,-65.61
+"Onions (Red, Imported)",2022,475.71,488.51
+"Onions (Red, Imported)",2023,500.25,5.16
+"Onions (Red, Imported)",2024,412.01,-17.64
+"Onions (Red, Imported)",2025,426.92,3.62
+"Onions (Red, Local)",2020,235.18,
+"Onions (Red, Local)",2022,216.19,-8.07
+"Onions (Red, Local)",2023,442.58,104.72
+"Onions (Red, Local)",2024,425.06,-3.96
+"Onions (Red, Local)",2025,394.84,-7.11
+Papaya,2020,100.34,
+Papaya,2021,55.0,-45.19
+Papaya,2022,263.28,378.69
+Papaya,2023,168.8,-35.89
+Papaya,2024,197.42,16.96
+Papaya,2025,185.89,-5.84
+Pineapples,2020,166.58,
+Pineapples,2021,125.0,-24.96
+Pineapples,2022,525.53,320.42
+Pineapples,2023,486.17,-7.49
+Pineapples,2024,461.69,-5.03
+Pineapples,2025,325.53,-29.49
+Potatoes (Imported),2020,124.24,
+Potatoes (Imported),2021,95.63,-23.03
+Potatoes (Imported),2022,234.94,145.69
+Potatoes (Imported),2023,218.29,-7.09
+Potatoes (Imported),2024,221.52,1.48
+Potatoes (Imported),2025,214.57,-3.13
+Potatoes (Local),2020,157.86,
+Potatoes (Local),2021,134.38,-14.88
+Potatoes (Local),2022,471.72,251.05
+Potatoes (Local),2023,391.44,-17.02
+Potatoes (Local),2024,406.18,3.77
+Potatoes (Local),2025,394.15,-2.96
+Pumpkin,2020,89.22,
+Pumpkin,2021,101.0,13.2
+Pumpkin,2022,220.7,118.51
+Pumpkin,2023,165.62,-24.96
+Pumpkin,2024,220.75,33.29
+Pumpkin,2025,208.91,-5.36
+Rice (Long Grain),2009,60.55,
+Rice (Long Grain),2010,60.55,0.0
+Rice (Long Grain),2011,60.55,0.0
+Rice (Long Grain),2012,60.55,0.0
+Rice (Long Grain),2013,60.34,-0.36
+Rice (Long Grain),2014,76.02,25.99
+Rice (Long Grain),2015,67.86,-10.73
+Rice (Long Grain),2016,72.82,7.3
+Rice (Long Grain),2017,90.88,24.8
+Rice (Long Grain),2018,93.93,3.36
+Rice (Medium Grain),2020,96.08,
+Rice (Medium Grain),2023,215.96,124.77
+Rice (Medium Grain),2024,224.15,3.79
+Rice (Medium Grain),2025,232.64,3.79
+Rice (Red Nadu),2004,42.24,
+Rice (Red Nadu),2005,32.52,-23.02
+Rice (Red Nadu),2006,34.63,6.5
+Rice (Red Nadu),2007,44.1,27.34
+Rice (Red Nadu),2008,62.32,41.31
+Rice (Red Nadu),2009,80.78,29.62
+Rice (Red Nadu),2010,63.57,-21.3
+Rice (Red Nadu),2011,62.04,-2.4
+Rice (Red Nadu),2012,61.27,-1.24
+Rice (Red Nadu),2013,62.09,1.33
+Rice (Red Nadu),2020,93.13,49.99
+Rice (Red),2020,92.52,
+Rice (Red),2021,95.17,2.87
+Rice (White),2006,30.91,
+Rice (White),2007,38.54,24.68
+Rice (White),2008,62.72,62.73
+Rice (White),2009,61.43,-2.05
+Rice (White),2010,53.58,-12.79
+Rice (White),2011,56.3,5.09
+Rice (White),2012,56.77,0.83
+Rice (White),2013,59.38,4.6
+Rice (White),2014,72.43,21.98
+Rice (White),2015,69.02,-4.71
+Rice (White),2016,72.36,4.84
+Rice (White),2017,84.62,16.95
+Rice (White),2018,83.76,-1.02
+Rice (White),2019,90.59,8.16
+Rice (White),2020,94.31,4.11
+Rice (White),2021,107.04,13.5
+Rice (White),2022,186.6,74.33
+Rice (White),2023,232.33,24.51
+Rice (White),2024,252.47,8.67
+Rice (White),2025,251.16,-0.52
+Snake Gourd,2020,97.95,
+Snake Gourd,2021,86.0,-12.2
+Snake Gourd,2022,323.02,275.61
+Snake Gourd,2023,302.21,-6.44
+Snake Gourd,2024,305.96,1.24
+Snake Gourd,2025,313.04,2.31
+Sugar,2012,106.12,
+Sugar,2013,101.27,-4.58
+Sugar,2014,101.14,-0.13
+Sugar,2015,85.27,-15.68
+Sugar,2016,103.58,21.47
+Sugar,2017,108.57,4.82
+Sugar,2018,109.0,0.4
+Sugar,2020,115.48,5.94
+Sugar,2021,140.62,21.77
+Sugar,2022,215.36,53.15
+Tomatoes,2020,123.77,
+Tomatoes,2021,107.0,-13.55
+Tomatoes,2022,320.6,199.63
+Tomatoes,2023,335.29,4.58
+Tomatoes,2024,397.25,18.48
+Tomatoes,2025,390.94,-1.59
+Wheat Flour,2004,45.31,
+Wheat Flour,2005,30.52,-32.64
+Wheat Flour,2006,37.42,22.6
+Wheat Flour,2007,52.24,39.59
+Wheat Flour,2008,78.79,50.83
+Wheat Flour,2009,71.33,-9.47
+Wheat Flour,2010,68.93,-3.37
+Wheat Flour,2011,81.32,17.98
+Wheat Flour,2012,85.76,5.46
+Wheat Flour,2013,98.3,14.61
+Wheat Flour,2014,97.66,-0.65
+Wheat Flour,2015,85.59,-12.36
+Wheat Flour,2016,89.3,4.34
+Wheat Flour,2017,88.78,-0.59
+Wheat Flour,2018,91.58,3.15
+Wheat Flour,2019,94.52,3.21
+Wheat Flour,2020,92.77,-1.85
+Wheat Flour,2021,101.51,9.43
+Wheat Flour,2022,211.46,108.32
